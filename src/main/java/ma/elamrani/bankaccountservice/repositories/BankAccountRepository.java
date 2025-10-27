@@ -1,0 +1,7 @@
+package ma.elamrani.bankaccountservice.repositories;
+
+import ma.elamrani.bankaccountservice.entities.BankAccount;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface BankAccountRepository extends JpaRepository<BankAccount, String> {
+}
