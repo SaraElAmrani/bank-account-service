@@ -9,6 +9,7 @@ import ma.elamrani.bankaccountservice.enums.AccountType;
 
 import java.util.Date;
 
+
 @Entity
 @Data
 @NoArgsConstructor
